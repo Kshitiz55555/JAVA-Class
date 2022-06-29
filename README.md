@@ -1,0 +1,1 @@
+Here are some standards and may be the code to execute in terminal.
